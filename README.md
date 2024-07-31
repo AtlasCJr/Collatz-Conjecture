@@ -2,11 +2,6 @@
 
 This Python script generates an animated 3D visualization of the Collatz Conjecture using matplotlib. The Collatz Conjecture is a famous unsolved mathematical problem also known as the "3x+1 problem".
 
-<div align="center">
-  <img src="Animations/Animation_Collatz Conjecture.gif" alt="Collatz Conjecture Animation">
-  <h5>Collatz Conjecture Animation</h5>
-</div>
-
 The Collatz Conjecture, named after the German mathematician Lothar Collatz, is a sequence defined as follows:
 
 1. Start with any positive integer \( n \).
@@ -51,6 +46,11 @@ Run the script to generate the animated GIF:
     Collatz Conjecture.py
 
 The animation will be saved as _Animation_Collatz_Conjecture.gif_ in the Animations directory.
+
+<div align="center">
+  <img src="Animations/Animation_Collatz Conjecture.gif" alt="Collatz Conjecture Animation">
+  <h5>Collatz Conjecture Animation</h5>
+</div>
 
 ## Description
 
